@@ -16,7 +16,7 @@ Page({
     })
   },
   goOtherPage: function() {
-    console.log(111)
+    console.log(123)
   },
   onLoad: function () {
     if (app.globalData.userInfo) {
